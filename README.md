@@ -104,11 +104,11 @@ The code's purpose is to check if the age entered by the user is 18 or older. If
 
 ### **OUTPUT**
 
--*Part-A*
+- *Part-A*
 
 ![Exp16_1](https://github.com/Purvansha022609/Exception-Handling/assets/139473344/05787273-ed86-4e8b-b221-01c34471dea2)
 
--*Part-B*
+- *Part-B*
 
 ![Exp16_2](https://github.com/Purvansha022609/Exception-Handling/assets/139473344/2b3f7c29-e088-4f9d-9af4-177cc189195b)
 
