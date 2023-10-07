@@ -50,7 +50,7 @@ C++ Exceptions Hierarchy
 
 ### **ALGORITHM**
 
--*Part-A*
+- *Part-A*
 
 The code you provided is a C++ program that performs division of two numbers, a and b, and uses exception handling to catch and handle the case where b is equal to 0.
 
@@ -76,7 +76,7 @@ Here's a breakdown of how the code works:
 
 10.So, the output you provided is expected and demonstrates the proper functioning of the exception handling mechanism in C++.
 
--*Part-B*
+- *Part-B*
 
 The code you provided is a C++ program that takes a user's age as input and uses exception handling to determine whether the person is eligible based on their age. Here's the algorithm of how the code works:
 
